@@ -1,0 +1,85 @@
+D:\Development\IOTdemo01\IOTdemo01\bin\Debug\IOTdemo01.exe
+D:\Development\IOTdemo01\IOTdemo01\bin\Debug\IOTdemo01.pdb
+D:\Development\IOTdemo01\IOTdemo01\bin\Debug\IOTdemo01.xml
+D:\Development\IOTdemo01\IOTdemo01\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Development\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.Form1.resources
+D:\Development\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.Resources.resources
+D:\Development\IOTdemo01\IOTdemo01\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Development\IOTdemo01\IOTdemo01\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Development\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.exe
+D:\Development\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.xml
+D:\Development\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.pdb
+E:\TryingDir3\汇聚节点和上位机通信程序（vs2010） 演示程序01\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.exe
+E:\TryingDir3\汇聚节点和上位机通信程序（vs2010） 演示程序01\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.xml
+E:\TryingDir3\汇聚节点和上位机通信程序（vs2010） 演示程序01\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.pdb
+E:\TryingDir3\汇聚节点和上位机通信程序（vs2010） 演示程序01\IOTdemo01\IOTdemo01\bin\Debug\IOTdemo01.exe
+E:\TryingDir3\汇聚节点和上位机通信程序（vs2010） 演示程序01\IOTdemo01\IOTdemo01\bin\Debug\IOTdemo01.pdb
+E:\TryingDir3\汇聚节点和上位机通信程序（vs2010） 演示程序01\IOTdemo01\IOTdemo01\bin\Debug\IOTdemo01.xml
+E:\TryingDir3\汇聚节点和上位机通信程序（vs2010） 演示程序01\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.Form1.resources
+E:\TryingDir3\汇聚节点和上位机通信程序（vs2010） 演示程序01\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.Resources.resources
+E:\TryingDir3\汇聚节点和上位机通信程序（vs2010） 演示程序01\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.vbproj.GenerateResource.Cache
+D:\我使用的文档\上课资料\物联网开发与应用\实验\实验 04\汇聚节点和上位机通信程序（vs2010） 演示程序01 - 副本\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.exe
+D:\我使用的文档\上课资料\物联网开发与应用\实验\实验 04\汇聚节点和上位机通信程序（vs2010） 演示程序01 - 副本\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.xml
+D:\我使用的文档\上课资料\物联网开发与应用\实验\实验 04\汇聚节点和上位机通信程序（vs2010） 演示程序01 - 副本\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.pdb
+D:\我使用的文档\上课资料\物联网开发与应用\实验\实验 04\汇聚节点和上位机通信程序（vs2010） 演示程序01 - 副本\IOTdemo01\IOTdemo01\bin\Debug\IOTdemo01.exe
+D:\我使用的文档\上课资料\物联网开发与应用\实验\实验 04\汇聚节点和上位机通信程序（vs2010） 演示程序01 - 副本\IOTdemo01\IOTdemo01\bin\Debug\IOTdemo01.pdb
+D:\我使用的文档\上课资料\物联网开发与应用\实验\实验 04\汇聚节点和上位机通信程序（vs2010） 演示程序01 - 副本\IOTdemo01\IOTdemo01\bin\Debug\IOTdemo01.xml
+D:\我使用的文档\上课资料\物联网开发与应用\实验\实验 04\汇聚节点和上位机通信程序（vs2010） 演示程序01 - 副本\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.Form1.resources
+D:\我使用的文档\上课资料\物联网开发与应用\实验\实验 04\汇聚节点和上位机通信程序（vs2010） 演示程序01 - 副本\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.Resources.resources
+D:\我使用的文档\上课资料\物联网开发与应用\实验\实验 04\汇聚节点和上位机通信程序（vs2010） 演示程序01 - 副本\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.vbproj.GenerateResource.Cache
+D:\我使用的文档\上课资料\物联网开发与应用\实验\实验 04\汇聚节点和上位机通信程序（vs2010） 演示程序01 - 副本\IOTdemo01\IOTdemo01\bin\Debug\IOTdemo01.exe.config
+D:\我使用的文档\上课资料\物联网开发与应用\实验\实验 04\汇聚节点和上位机通信程序（vs2010） 演示程序04\IOTdemo01\IOTdemo01\bin\Debug\IOTdemo01.exe.config
+D:\我使用的文档\上课资料\物联网开发与应用\实验\实验 04\汇聚节点和上位机通信程序（vs2010） 演示程序04\IOTdemo01\IOTdemo01\bin\Debug\IOTdemo01.exe
+D:\我使用的文档\上课资料\物联网开发与应用\实验\实验 04\汇聚节点和上位机通信程序（vs2010） 演示程序04\IOTdemo01\IOTdemo01\bin\Debug\IOTdemo01.pdb
+D:\我使用的文档\上课资料\物联网开发与应用\实验\实验 04\汇聚节点和上位机通信程序（vs2010） 演示程序04\IOTdemo01\IOTdemo01\bin\Debug\IOTdemo01.xml
+D:\我使用的文档\上课资料\物联网开发与应用\实验\实验 04\汇聚节点和上位机通信程序（vs2010） 演示程序04\IOTdemo01\IOTdemo01\bin\Debug\MySql.Data.dll
+D:\我使用的文档\上课资料\物联网开发与应用\实验\实验 04\汇聚节点和上位机通信程序（vs2010） 演示程序04\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.Form1.resources
+D:\我使用的文档\上课资料\物联网开发与应用\实验\实验 04\汇聚节点和上位机通信程序（vs2010） 演示程序04\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.Resources.resources
+D:\我使用的文档\上课资料\物联网开发与应用\实验\实验 04\汇聚节点和上位机通信程序（vs2010） 演示程序04\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.vbproj.GenerateResource.Cache
+D:\我使用的文档\上课资料\物联网开发与应用\实验\实验 04\汇聚节点和上位机通信程序（vs2010） 演示程序04\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.exe
+D:\我使用的文档\上课资料\物联网开发与应用\实验\实验 04\汇聚节点和上位机通信程序（vs2010） 演示程序04\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.xml
+D:\我使用的文档\上课资料\物联网开发与应用\实验\实验 04\汇聚节点和上位机通信程序（vs2010） 演示程序04\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.pdb
+D:\我使用的文档\上课资料\物联网开发与应用\实验\实验 04\物联网数据存储 演示程序（vs2010）\IOTdemo01\IOTdemo01\bin\Debug\IOTdemo01.exe.config
+D:\我使用的文档\上课资料\物联网开发与应用\实验\实验 04\物联网数据存储 演示程序（vs2010）\IOTdemo01\IOTdemo01\bin\Debug\IOTdemo01.exe
+D:\我使用的文档\上课资料\物联网开发与应用\实验\实验 04\物联网数据存储 演示程序（vs2010）\IOTdemo01\IOTdemo01\bin\Debug\IOTdemo01.pdb
+D:\我使用的文档\上课资料\物联网开发与应用\实验\实验 04\物联网数据存储 演示程序（vs2010）\IOTdemo01\IOTdemo01\bin\Debug\IOTdemo01.xml
+D:\我使用的文档\上课资料\物联网开发与应用\实验\实验 04\物联网数据存储 演示程序（vs2010）\IOTdemo01\IOTdemo01\bin\Debug\MySql.Data.dll
+D:\我使用的文档\上课资料\物联网开发与应用\实验\实验 04\物联网数据存储 演示程序（vs2010）\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.Form1.resources
+D:\我使用的文档\上课资料\物联网开发与应用\实验\实验 04\物联网数据存储 演示程序（vs2010）\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.Resources.resources
+D:\我使用的文档\上课资料\物联网开发与应用\实验\实验 04\物联网数据存储 演示程序（vs2010）\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.vbproj.GenerateResource.Cache
+D:\我使用的文档\上课资料\物联网开发与应用\实验\实验 04\物联网数据存储 演示程序（vs2010）\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.exe
+D:\我使用的文档\上课资料\物联网开发与应用\实验\实验 04\物联网数据存储 演示程序（vs2010）\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.xml
+D:\我使用的文档\上课资料\物联网开发与应用\实验\实验 04\物联网数据存储 演示程序（vs2010）\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.pdb
+J:\《物联网开发与应用》实验指导书 -实验 04\《物联网开发与应用》实验指导书 -实验 04\物联网数据存储 演示程序（vs2010）\物联网数据存储 演示程序（vs2010）\IOTdemo01\IOTdemo01\bin\Debug\IOTdemo01.exe.config
+J:\《物联网开发与应用》实验指导书 -实验 04\《物联网开发与应用》实验指导书 -实验 04\物联网数据存储 演示程序（vs2010）\物联网数据存储 演示程序（vs2010）\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.exe
+J:\《物联网开发与应用》实验指导书 -实验 04\《物联网开发与应用》实验指导书 -实验 04\物联网数据存储 演示程序（vs2010）\物联网数据存储 演示程序（vs2010）\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.xml
+J:\《物联网开发与应用》实验指导书 -实验 04\《物联网开发与应用》实验指导书 -实验 04\物联网数据存储 演示程序（vs2010）\物联网数据存储 演示程序（vs2010）\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.pdb
+J:\《物联网开发与应用》实验指导书 -实验 04\《物联网开发与应用》实验指导书 -实验 04\物联网数据存储 演示程序（vs2010）\物联网数据存储 演示程序（vs2010）\IOTdemo01\IOTdemo01\bin\Debug\IOTdemo01.exe
+J:\《物联网开发与应用》实验指导书 -实验 04\《物联网开发与应用》实验指导书 -实验 04\物联网数据存储 演示程序（vs2010）\物联网数据存储 演示程序（vs2010）\IOTdemo01\IOTdemo01\bin\Debug\IOTdemo01.pdb
+J:\《物联网开发与应用》实验指导书 -实验 04\《物联网开发与应用》实验指导书 -实验 04\物联网数据存储 演示程序（vs2010）\物联网数据存储 演示程序（vs2010）\IOTdemo01\IOTdemo01\bin\Debug\IOTdemo01.xml
+J:\《物联网开发与应用》实验指导书 -实验 04\《物联网开发与应用》实验指导书 -实验 04\物联网数据存储 演示程序（vs2010）\物联网数据存储 演示程序（vs2010）\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.vbprojResolveAssemblyReference.cache
+J:\《物联网开发与应用》实验指导书 -实验 04\《物联网开发与应用》实验指导书 -实验 04\物联网数据存储 演示程序（vs2010）\物联网数据存储 演示程序（vs2010）\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.Form1.resources
+J:\《物联网开发与应用》实验指导书 -实验 04\《物联网开发与应用》实验指导书 -实验 04\物联网数据存储 演示程序（vs2010）\物联网数据存储 演示程序（vs2010）\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.Resources.resources
+J:\《物联网开发与应用》实验指导书 -实验 04\《物联网开发与应用》实验指导书 -实验 04\物联网数据存储 演示程序（vs2010）\物联网数据存储 演示程序（vs2010）\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.vbproj.GenerateResource.Cache
+F:\物联网开发与应用\《物联网开发与应用》实验指导书 -实验 04\《物联网开发与应用》实验指导书 -实验 04\物联网数据存储 演示程序（vs2010）\物联网数据存储 演示程序（vs2010）\IOTdemo01\IOTdemo01\bin\Debug\IOTdemo01.exe.config
+F:\物联网开发与应用\《物联网开发与应用》实验指导书 -实验 04\《物联网开发与应用》实验指导书 -实验 04\物联网数据存储 演示程序（vs2010）\物联网数据存储 演示程序（vs2010）\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.exe
+F:\物联网开发与应用\《物联网开发与应用》实验指导书 -实验 04\《物联网开发与应用》实验指导书 -实验 04\物联网数据存储 演示程序（vs2010）\物联网数据存储 演示程序（vs2010）\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.xml
+F:\物联网开发与应用\《物联网开发与应用》实验指导书 -实验 04\《物联网开发与应用》实验指导书 -实验 04\物联网数据存储 演示程序（vs2010）\物联网数据存储 演示程序（vs2010）\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.pdb
+F:\物联网开发与应用\《物联网开发与应用》实验指导书 -实验 04\《物联网开发与应用》实验指导书 -实验 04\物联网数据存储 演示程序（vs2010）\物联网数据存储 演示程序（vs2010）\IOTdemo01\IOTdemo01\bin\Debug\IOTdemo01.exe
+F:\物联网开发与应用\《物联网开发与应用》实验指导书 -实验 04\《物联网开发与应用》实验指导书 -实验 04\物联网数据存储 演示程序（vs2010）\物联网数据存储 演示程序（vs2010）\IOTdemo01\IOTdemo01\bin\Debug\IOTdemo01.pdb
+F:\物联网开发与应用\《物联网开发与应用》实验指导书 -实验 04\《物联网开发与应用》实验指导书 -实验 04\物联网数据存储 演示程序（vs2010）\物联网数据存储 演示程序（vs2010）\IOTdemo01\IOTdemo01\bin\Debug\IOTdemo01.xml
+F:\物联网开发与应用\《物联网开发与应用》实验指导书 -实验 04\《物联网开发与应用》实验指导书 -实验 04\物联网数据存储 演示程序（vs2010）\物联网数据存储 演示程序（vs2010）\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.vbprojResolveAssemblyReference.cache
+F:\物联网开发与应用\《物联网开发与应用》实验指导书 -实验 04\《物联网开发与应用》实验指导书 -实验 04\物联网数据存储 演示程序（vs2010）\物联网数据存储 演示程序（vs2010）\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.Form1.resources
+F:\物联网开发与应用\《物联网开发与应用》实验指导书 -实验 04\《物联网开发与应用》实验指导书 -实验 04\物联网数据存储 演示程序（vs2010）\物联网数据存储 演示程序（vs2010）\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.Resources.resources
+F:\物联网开发与应用\《物联网开发与应用》实验指导书 -实验 04\《物联网开发与应用》实验指导书 -实验 04\物联网数据存储 演示程序（vs2010）\物联网数据存储 演示程序（vs2010）\IOTdemo01\IOTdemo01\obj\x86\Debug\IOTdemo01.vbproj.GenerateResource.Cache
+C:\Users\STEVE\Desktop\Graduation Project\IOT_Serial\IOTdemo01\bin\Debug\IOTdemo01.exe.config
+C:\Users\STEVE\Desktop\Graduation Project\IOT_Serial\IOTdemo01\obj\x86\Debug\IOTdemo01.exe
+C:\Users\STEVE\Desktop\Graduation Project\IOT_Serial\IOTdemo01\obj\x86\Debug\IOTdemo01.xml
+C:\Users\STEVE\Desktop\Graduation Project\IOT_Serial\IOTdemo01\obj\x86\Debug\IOTdemo01.pdb
+C:\Users\STEVE\Desktop\Graduation Project\IOT_Serial\IOTdemo01\bin\Debug\IOTdemo01.exe
+C:\Users\STEVE\Desktop\Graduation Project\IOT_Serial\IOTdemo01\bin\Debug\IOTdemo01.pdb
+C:\Users\STEVE\Desktop\Graduation Project\IOT_Serial\IOTdemo01\bin\Debug\IOTdemo01.xml
+C:\Users\STEVE\Desktop\Graduation Project\IOT_Serial\IOTdemo01\obj\x86\Debug\IOTdemo01.vbprojResolveAssemblyReference.cache
+C:\Users\STEVE\Desktop\Graduation Project\IOT_Serial\IOTdemo01\obj\x86\Debug\IOTdemo01.Form1.resources
+C:\Users\STEVE\Desktop\Graduation Project\IOT_Serial\IOTdemo01\obj\x86\Debug\IOTdemo01.Resources.resources
+C:\Users\STEVE\Desktop\Graduation Project\IOT_Serial\IOTdemo01\obj\x86\Debug\IOTdemo01.vbproj.GenerateResource.Cache
